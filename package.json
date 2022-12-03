@@ -1,0 +1,23 @@
+{
+  "name": "@faranalytics/async.call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faranalytics/async.call.git"
+  },
+  "author": "FAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faranalytics/async.call/issues"
+  },
+  "homepage": "https://github.com/faranalytics/async.call#readme",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
